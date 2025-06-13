@@ -22,11 +22,11 @@
       y="center"
       width="250"
       />
-  <agent
-    id="texto-clicado"
-    text="texto depois de clicar"
-    x="center"
-    y="center"
+    <agent
+      id="texto-clicado"
+      text="texto depois de clicar"
+      x="center"
+      y="center"
     />
   <agent
     id="next_page_text"
