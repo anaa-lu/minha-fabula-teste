@@ -20,21 +20,27 @@
       image="forest-sign-1.png"
       x="center"
       y="center"
-      width="250"
-      />
+      width="250" />
     <agent
       id="texto-clicado"
       text="neve removida com sucesso"
       x="center"
-      y="center"
-    />
+      y="center" 
+      color="white" />
+    <agent 
+      id="pensamento-ruim"
+      text="não tenho certeza se ta limpo, deixa eu conferir de novo"
+      color="black"
+      x="50"
+      y="30"/>
+    <agent
+      id="ação-ruim"
+      text="clique aqui pra limpar de novo"
+      color="red"
+      x="300" 
+      y="200"
+      on_click="set(contador,$contador+1)"/>
   </fab-if>
-  <agent
-    id="next_page_text"
-    text="Proxima Pagina"
-    animation="glitch"
-    y="480"
-    x="640"
-    on_click="goToPage('middle')"
-  />
+  <fab-if when="$contador = 2">
+    
 </page>
