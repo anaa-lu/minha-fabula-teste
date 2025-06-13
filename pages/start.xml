@@ -1,13 +1,33 @@
-<page id="start" bg_image="tech-bg-lab.png" bg_music="osts-vilo.mp3">
+<page id="start" bg_color="lightblue" bg_music="osts-vilo.mp3">
   <agent
     id="teste"
-    text="teste fábula 2025"
+    image="snow-sign-1.png"
     color="white"
     x="center"
     y="center"
-    font-size="70"
+    width="250"
   />
-
+  <agent
+    id="textinho"
+    text="texto antes de clicar"
+    x="center"
+    y="center"
+    on_click="set(contador,$contador+1)"
+    />
+  <fab-if when="$contador = 1"/>
+    <agent
+      id="placa-clicada"
+      image="forest-sign-1.png"
+      x="center"
+      y="center"
+      width="250"
+      />
+  <agent
+    id="texto-clicado"
+    text="texto depois de clicar"
+    x="center"
+    y="center"
+    />
   <agent
     id="next_page_text"
     text="Proxima Pagina"
