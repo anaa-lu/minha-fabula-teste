@@ -41,6 +41,4 @@
       y="200"
       on_click="set(contador,$contador+1)"/>
   </fab-if>
-  <fab-if when="$contador = 2">
-    
 </page>
