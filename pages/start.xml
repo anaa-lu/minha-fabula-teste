@@ -9,7 +9,7 @@
       width="250" />
     <agent
       id="textinho"
-      text="texto antes de clicar"
+      text="clique aqui pra limpar a neve"
       x="center"
       y="center"
       on_click="set(contador,$contador+1)" />
@@ -24,7 +24,7 @@
       />
     <agent
       id="texto-clicado"
-      text="texto depois de clicar"
+      text="neve removida com sucesso"
       x="center"
       y="center"
     />
