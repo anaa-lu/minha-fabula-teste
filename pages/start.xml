@@ -1,20 +1,20 @@
 <page id="start" bg_color="lightblue" bg_music="osts-vilo.mp3">
-  <agent
-    id="teste"
-    image="snow-sign-1.png"
-    color="white"
-    x="center"
-    y="center"
-    width="250"
-  />
-  <agent
-    id="textinho"
-    text="texto antes de clicar"
-    x="center"
-    y="center"
-    on_click="set(contador,$contador+1)"
-    />
-  <fab-if when="$contador = 1"/>
+  <fab-if when="$contador = 0">
+    <agent
+      id="teste"
+      image="snow-sign-1.png"
+      color="white"
+      x="center"
+      y="center"
+      width="250" />
+    <agent
+      id="textinho"
+      text="texto antes de clicar"
+      x="center"
+      y="center"
+      on_click="set(contador,$contador+1)" />
+  </fab-if>
+  <fab-if when="$contador = 1">
     <agent
       id="placa-clicada"
       image="forest-sign-1.png"
@@ -28,6 +28,7 @@
       x="center"
       y="center"
     />
+  </fab-if>
   <agent
     id="next_page_text"
     text="Proxima Pagina"
