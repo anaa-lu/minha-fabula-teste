@@ -3,10 +3,9 @@
     <agent 
         id="botao_cama1"
         x="100"
-        y="350"
+        y="320"
         text=" "
-        width="200"
-        height="100"
+        font_size="2000"
         on_click="set(contador, $contador+1); goToPage('fase_cama2')" />
   </fab-if>
 </page>
