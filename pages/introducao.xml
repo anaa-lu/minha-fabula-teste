@@ -2,9 +2,9 @@
     <agent 
       id="botao_introducao"
       x="center"
-      y="465"
+      y="460"
       text="O"
-      font-size="40"
+      font-size="25"
       color="beige"
       width="200"
       height="100"
