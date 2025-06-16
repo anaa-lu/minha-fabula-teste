@@ -1,3 +1,3 @@
-<page id="titulo" bg_color="black">
+<page id="titulo" bg_image="titulo_fabula.jpg">
   <agent id="titulo" x="center" y="center" text="Página titulo" color="white" font-size="24" />
 </page>
