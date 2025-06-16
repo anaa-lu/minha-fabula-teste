@@ -1,3 +1,12 @@
-<page id="fase_final" bg_color="black">
-  <agent id="titulo" x="center" y="center" text="Página fase_final" color="white" font-size="24" />
+<page id="fase_final" bg_image="fase_final.jpg">
+   <agent 
+      id="botao_final"
+      x="300"
+      y="265"
+      text="O"
+      font-size="80"
+      color="red"
+      width="200"
+      height="100"
+      on_click= "goToPage('finalizacao')"/>
 </page>
