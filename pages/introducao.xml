@@ -7,6 +7,6 @@
         text=" "
         width="200"
         height="100"
-        on_click="set(contador, $contador+1); goToPage('fase_cama1')"/>
+        on_click="set(contador, $contador+1); goToPage('fase_cama1')" />
   </fab-if>
 </page>
