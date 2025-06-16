@@ -1,12 +1,12 @@
 <page id="introducao" bg_image="introducao_fabula.jpg">
   <fab-if when="$contador = 1">
     <agent 
-        id="botao_titulo"
+        id="botao_introducao"
         x="center"
         y="430"
         text=" "
         width="200"
         height="100"
-        on_click="set(contador, $contador+1); goToPage('introducao')"/>
+        on_click="set(contador, $contador+1); goToPage('fase_cama1')"/>
   </fab-if>
 </page>
