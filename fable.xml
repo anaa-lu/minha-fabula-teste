@@ -6,6 +6,6 @@
 
   <titulo />
   <introducao />
-  <fase_cama1 />
+  <fase_cama1/>
   <fase_cama2/>
 </fable>
