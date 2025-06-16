@@ -1,3 +1,12 @@
-<page id="fase_cama1" bg_color="black">
-  <agent id="titulo" x="center" y="center" text="Página fase_cama1" color="white" font-size="24" />
+<page id="fase_cama1" bg_image="fase_cama_1.jpg">
+  <fab-if when="$contador = 2">
+    <agent 
+        id="botao_cama1"
+        x="center"
+        y="430"
+        text=" "
+        width="200"
+        height="100"
+        on_click="set(contador, $contador+1); goToPage('fase_cama2')" />
+  </fab-if>
 </page>
