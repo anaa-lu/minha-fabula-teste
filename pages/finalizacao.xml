@@ -1,6 +1,6 @@
 <page id="finalizacao" bg_image="fim_da_fabula_1.jpg">
   <agent 
-      id="botao_final"
+      id="botao_finalizacao"
       x="center"
       y="430"
       text="O"
