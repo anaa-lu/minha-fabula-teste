@@ -1,7 +1,7 @@
 <page id="fase_cama1" bg_image="fase_cama_1.jpg">
-  <fab-if when="$contador = 2">
+  <fab-if when="$contador = 3">
     <agent 
-        id="botao_cama1"
+        id="botao_cama2"
         x="100"
         y="320"
         text="<>"
