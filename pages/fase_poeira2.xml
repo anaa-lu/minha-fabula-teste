@@ -1,6 +1,6 @@
 <page id="fase_poeira2" bg_image="fase_poeira_2_0.jpg">
   <agent 
-      id="botao_poeira1"
+      id="botao_poeira2"
       x="295"
       y="410"
       text="O"
