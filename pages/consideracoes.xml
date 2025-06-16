@@ -8,5 +8,5 @@
       color="black"
       width="200"
       height="100"
-      on_click= "goToPage('introducao')"/>
+      on_click="reset()"/>
 </page>
