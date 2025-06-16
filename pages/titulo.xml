@@ -4,8 +4,8 @@
       x="center"
       y="465"
       text="O"
-      font-size="50"
-      color="limegreen"
+      font-size="40"
+      color="beige"
       width="200"
       height="100"
       on_click= "goToPage('introducao')"/>
