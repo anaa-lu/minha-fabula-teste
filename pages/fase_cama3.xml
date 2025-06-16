@@ -5,7 +5,7 @@
       y="340"
       text="O"
       font-size="80"
-      color="skyblue"
+      color="lightblue"
       width="200"
       height="100"
       on_click= "goToPage('fase_janela1')"/>
