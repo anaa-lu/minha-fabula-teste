@@ -8,5 +8,5 @@
       color="white"
       width="200"
       height="100"
-      on_click= "goToPage('fase_livro1')"/>
+      on_click= "goToPage('fase_livro2')"/>
 </page>
