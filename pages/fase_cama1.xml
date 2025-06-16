@@ -3,7 +3,7 @@
     <agent 
         id="botao_cama1"
         x="100"
-        y="430"
+        y="350"
         text=" "
         width="200"
         height="100"
