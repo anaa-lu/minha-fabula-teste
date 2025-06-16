@@ -1,13 +1,12 @@
 <page id="titulo" bg_image="titulo_fabula.jpg">
-  <fab-if when="$contador = 0">
-    <agent 
-        id="botao_titulo"
-        x="center"
-        y="460"
-        text="<>"
-        color="white"
-        width="200"
-        height="100"
-        on_click="set(contador, $contador+1); goToPage('introducao')"/>
-  </fab-if>
+  <agent 
+      id="botao_titulo"
+      x="center"
+      y="465"
+      text="O"
+      font-size="50"
+      color="limegreen"
+      width="200"
+      height="100"
+      on_click= "goToPage('introducao')"/>
 </page>
