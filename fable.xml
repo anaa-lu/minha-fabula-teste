@@ -1,11 +1,20 @@
 <fable>
-  <config font-family="Schoolbell" />
+  <config font-family="Montserrat" />
 
-  <property name="contador" default="0" />
-  <property name="visitante" default="Aventureiro" />
 
   <titulo />
   <introducao />
   <fase_cama1/>
   <fase_cama2/>
+  <fase_cama3/>
+  <fase_janela1/>
+  <fase_janela2/>
+  <fase_livro1/>
+  <fase_livro2/>
+  <fase_poeira1/>
+  <fase_poeira2/>
+  <fase_germes/>
+  <fase_final/>
+  <finalizacao/>
+  <consideracoes/>
 </fable>
