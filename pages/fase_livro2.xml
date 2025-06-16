@@ -1,4 +1,4 @@
-<page id="fase_livro2" bg_image="fase_livro_2_0.jpg">
+<page id="fase_livro2" bg_image="fase_livro_2.png">
   <agent 
       id="botao_livro2"
       x="487"
