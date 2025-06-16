@@ -5,7 +5,7 @@
       y="230"
       text="O"
       font-size="80"
-      color="lightyellow"
+      color="beige"
       width="200"
       height="100"
       on_click= "goToPage('fase_livro2')"/>
