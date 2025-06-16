@@ -1,3 +1,12 @@
-<page id="fase_livro1" bg_color="black">
-  <agent id="titulo" x="center" y="center" text="Página fase_livro1" color="white" font-size="24" />
+<page id="fase_livro1" bg_image="fase_livro_1_0.jpg">
+  <agent 
+      id="botao_janela2"
+      x="192"
+      y="190"
+      text="O"
+      font-size="80"
+      color="white"
+      width="200"
+      height="100"
+      on_click= "goToPage('fase_livro1')"/>
 </page>
