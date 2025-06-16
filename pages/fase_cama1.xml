@@ -4,8 +4,7 @@
         id="botao_cama1"
         x="100"
         y="320"
-        text=" "
-        font_size="2000"
+        text="<>"
         on_click="set(contador, $contador+1); goToPage('fase_cama2')" />
   </fab-if>
 </page>
