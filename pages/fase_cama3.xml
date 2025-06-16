@@ -1,3 +1,12 @@
-<page id="fase_cama3" bg_color="black">
-  <agent id="titulo" x="center" y="center" text="Página fase_cama3" color="white" font-size="24" />
+<page id="fase_cama3" bg_image="fase_cama_3.jpg">
+  <agent 
+      id="botao_cama3"
+      x="195"
+      y="340"
+      text="O"
+      font-size="80"
+      color="skyblue"
+      width="200"
+      height="100"
+      on_click= "goToPage('fase_janela1')"/>
 </page>
