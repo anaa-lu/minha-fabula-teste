@@ -1,4 +1,4 @@
-<page id="fase_germes" bg_image="fase_germes_1.jpg">
+<page id="fase_germes" bg_image="fase_germes_1.jpg" bg_music="musica_fase_germes.mp4">
   <agent 
     id="botao_germes"
     x="300"
