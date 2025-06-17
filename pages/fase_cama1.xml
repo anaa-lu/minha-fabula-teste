@@ -1,5 +1,5 @@
 <page id="fase_cama1" bg_image="fase_cama_1.jpg">
- <agent 
+  <agent 
     id="botao_cama1"
     x="195"
     y="340"
