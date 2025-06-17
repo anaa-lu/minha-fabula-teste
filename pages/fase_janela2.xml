@@ -1,12 +1,12 @@
 <page id="fase_janela2" bg_image="fase_janela_2.jpg">
-    <agent 
-      id="botao_janela2"
-      x="192"
-      y="190"
-      text="O"
-      font-size="80"
-      color="white"
-      width="200"
-      height="100"
-      on_click= "goToPage('fase_livro1')"/>
+  <agent 
+    id="botao_janela2"
+    x="192"
+    y="190"
+    text="O"
+    font-size="80"
+    color="white"
+    width="200"
+    height="100"
+    on_click= "goToPage('fase_livro1')"/>
 </page>
