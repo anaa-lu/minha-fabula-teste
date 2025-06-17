@@ -1,12 +1,12 @@
 <page id="consideracoes" bg_image="consideracoes_finais.jpg">
   <agent 
-      id="botao_consideracoes"
-      x="center"
-      y="460"
-      text="O"
-      font-size="25"
-      color="black"
-      width="200"
-      height="100"
-      on_click="reset()"/>
+    id="botao_consideracoes"
+    x="center"
+    y="460"
+    text="O"
+    font-size="25"
+    color="black"
+    width="200"
+    height="100"
+    on_click="reset()"/>
 </page>
