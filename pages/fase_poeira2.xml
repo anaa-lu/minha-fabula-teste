@@ -1,4 +1,4 @@
-<page id="fase_poeira2" bg_image="fase_poeira_2.png">
+<page id="fase_poeira2" bg_image="fase_poeira_2.png" bg_music="musica_fase_poeira.mp4">
   <agent 
     id="botao_poeira2"
     x="300"
