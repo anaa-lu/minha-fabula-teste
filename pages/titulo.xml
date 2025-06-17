@@ -1,4 +1,4 @@
-<page id="titulo" bg_image="titulo_fabula.jpg">
+<page id="titulo" bg_image="titulo_fabula.jpg" bg_music="musica_introducao.mp4">
   <agent 
     id="botao_titulo"
     x="center"
