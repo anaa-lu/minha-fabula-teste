@@ -1,6 +1,6 @@
 <page id="consideracoes" bg_image="consideracoes_finais.jpg">
   <agent 
-      id="botao_titulo"
+      id="botao_consideracoes"
       x="center"
       y="460"
       text="O"
