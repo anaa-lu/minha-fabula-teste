@@ -1,4 +1,4 @@
-<page id="finalizacao" bg_image="fim_da_fabula_1.jpg">
+<page id="finalizacao" bg_image="fim_da_fabula_1.jpg" bg_music="musica_fase_final.mp4">
   <agent 
     id="botao_finalizacao"
     x="center"
