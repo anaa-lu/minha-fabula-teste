@@ -1,4 +1,4 @@
-<page id="fase_final" bg_image="fase_final.jpg">
+<page id="fase_final" bg_image="fase_final.jpg" bg_music="musica_fase_final.mp4">
   <agent 
     id="botao_final"
     x="300"
