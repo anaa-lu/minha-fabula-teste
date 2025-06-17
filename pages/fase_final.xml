@@ -1,5 +1,5 @@
 <page id="fase_final" bg_image="fase_final.jpg">
-   <agent 
+  <agent 
       id="botao_final"
       x="300"
       y="260"
