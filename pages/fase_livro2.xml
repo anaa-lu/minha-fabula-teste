@@ -1,4 +1,4 @@
-<page id="fase_livro2" bg_image="fase_livro_2.png">
+<page id="fase_livro2" bg_image="fase_livro_2.png" bg_music="musica_fase_livro.mp4">
   <agent 
     id="botao_livro2"
     x="487"
