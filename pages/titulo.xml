@@ -1,12 +1,12 @@
 <page id="titulo" bg_image="titulo_fabula.jpg">
   <agent 
-      id="botao_titulo"
-      x="center"
-      y="460"
-      text="O"
-      font-size="25"
-      color="beige"
-      width="200"
-      height="100"
-      on_click= "goToPage('introducao')"/>
+    id="botao_titulo"
+    x="center"
+    y="460"
+    text="O"
+    font-size="25"
+    color="beige"
+    width="200"
+    height="100"
+    on_click= "goToPage('introducao')"/>
 </page>
