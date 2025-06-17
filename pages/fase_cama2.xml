@@ -1,4 +1,4 @@
-<page id="fase_cama2" bg_image="fase_cama_2.jpg">
+<page id="fase_cama2" bg_image="fase_cama_2.jpg" bg_music="musica_fase_cama.mp4">
   <agent 
     id="botao_cama2"
     x="195"
